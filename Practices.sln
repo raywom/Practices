@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practices", "Practices\Practices.csproj", "{DAC1CC6F-DDF8-410F-862F-6F7B5E1F5026}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{04E04498-E6ED-4AAD-86CE-384D366A345D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{8160A74D-CE6A-4F54-A51F-3E6B3410FFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC1CC6F-DDF8-410F-862F-6F7B5E1F5026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC1CC6F-DDF8-410F-862F-6F7B5E1F5026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC1CC6F-DDF8-410F-862F-6F7B5E1F5026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC1CC6F-DDF8-410F-862F-6F7B5E1F5026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8160A74D-CE6A-4F54-A51F-3E6B3410FFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8160A74D-CE6A-4F54-A51F-3E6B3410FFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8160A74D-CE6A-4F54-A51F-3E6B3410FFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8160A74D-CE6A-4F54-A51F-3E6B3410FFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8160A74D-CE6A-4F54-A51F-3E6B3410FFCC} = {04E04498-E6ED-4AAD-86CE-384D366A345D}
+	EndGlobalSection
+EndGlobal
