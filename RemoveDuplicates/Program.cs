@@ -32,7 +32,7 @@
             }
 
             var arr = nums[0..size];
-            return arr.Length;
+            return arr.Length+1;
         }
     }
 }
