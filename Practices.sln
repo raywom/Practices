@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{B4264F3B-9949-4EFE-AAC3-CD11A3D6CDD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningSumOf1dArray", "RunningSumOf1dArray\RunningSumOf1dArray.csproj", "{B27ECB68-4F29-48AF-9CEE-2043FB37A78E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,6 +14,10 @@ Global
 		{B4264F3B-9949-4EFE-AAC3-CD11A3D6CDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4264F3B-9949-4EFE-AAC3-CD11A3D6CDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4264F3B-9949-4EFE-AAC3-CD11A3D6CDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27ECB68-4F29-48AF-9CEE-2043FB37A78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27ECB68-4F29-48AF-9CEE-2043FB37A78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27ECB68-4F29-48AF-9CEE-2043FB37A78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27ECB68-4F29-48AF-9CEE-2043FB37A78E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
