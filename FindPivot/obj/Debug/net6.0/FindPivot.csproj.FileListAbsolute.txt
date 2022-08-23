@@ -1,0 +1,15 @@
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\bin\Debug\net6.0\FindPivot.exe
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\bin\Debug\net6.0\FindPivot.deps.json
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\bin\Debug\net6.0\FindPivot.runtimeconfig.json
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\bin\Debug\net6.0\FindPivot.dll
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\bin\Debug\net6.0\FindPivot.pdb
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\FindPivot.csproj.AssemblyReference.cache
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\FindPivot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\FindPivot.AssemblyInfoInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\FindPivot.AssemblyInfo.cs
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\FindPivot.csproj.CoreCompileInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\FindPivot.dll
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\refint\FindPivot.dll
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\FindPivot.pdb
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\FindPivot.genruntimeconfig.cache
+C:\Users\rkuan\RiderProjects\Practices\FindPivot\obj\Debug\net6.0\ref\FindPivot.dll

@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningSumOf1dArray", "RunningSumOf1dArray\RunningSumOf1dArray.csproj", "{B27ECB68-4F29-48AF-9CEE-2043FB37A78E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPivot", "FindPivot\FindPivot.csproj", "{23A8286D-1DEF-4777-8820-83BBB37EA752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{394F7EFC-2D28-4466-AE83-C93F7AC1BC5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +22,14 @@ Global
 		{B27ECB68-4F29-48AF-9CEE-2043FB37A78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B27ECB68-4F29-48AF-9CEE-2043FB37A78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B27ECB68-4F29-48AF-9CEE-2043FB37A78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A8286D-1DEF-4777-8820-83BBB37EA752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A8286D-1DEF-4777-8820-83BBB37EA752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A8286D-1DEF-4777-8820-83BBB37EA752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A8286D-1DEF-4777-8820-83BBB37EA752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394F7EFC-2D28-4466-AE83-C93F7AC1BC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394F7EFC-2D28-4466-AE83-C93F7AC1BC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394F7EFC-2D28-4466-AE83-C93F7AC1BC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394F7EFC-2D28-4466-AE83-C93F7AC1BC5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
