@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "Merg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{278EB665-3953-43D0-BC54-584C403E11D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleOfTheLinkedList", "MiddleOfTheLinkedList\MiddleOfTheLinkedList.csproj", "{2A9D60B9-B582-4172-8483-9E757D601FB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{278EB665-3953-43D0-BC54-584C403E11D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{278EB665-3953-43D0-BC54-584C403E11D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{278EB665-3953-43D0-BC54-584C403E11D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9D60B9-B582-4172-8483-9E757D601FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9D60B9-B582-4172-8483-9E757D601FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9D60B9-B582-4172-8483-9E757D601FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9D60B9-B582-4172-8483-9E757D601FB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

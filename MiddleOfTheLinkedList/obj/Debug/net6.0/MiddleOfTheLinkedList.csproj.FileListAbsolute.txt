@@ -1,0 +1,15 @@
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\bin\Debug\net6.0\MiddleOfTheLinkedList.exe
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\bin\Debug\net6.0\MiddleOfTheLinkedList.deps.json
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\bin\Debug\net6.0\MiddleOfTheLinkedList.runtimeconfig.json
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\bin\Debug\net6.0\MiddleOfTheLinkedList.dll
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\bin\Debug\net6.0\MiddleOfTheLinkedList.pdb
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\MiddleOfTheLinkedList.csproj.AssemblyReference.cache
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\MiddleOfTheLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\MiddleOfTheLinkedList.AssemblyInfoInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\MiddleOfTheLinkedList.AssemblyInfo.cs
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\MiddleOfTheLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\MiddleOfTheLinkedList.dll
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\refint\MiddleOfTheLinkedList.dll
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\MiddleOfTheLinkedList.pdb
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\MiddleOfTheLinkedList.genruntimeconfig.cache
+C:\Users\rkuan\RiderProjects\Practices\MiddleOfTheLinkedList\obj\Debug\net6.0\ref\MiddleOfTheLinkedList.dll
