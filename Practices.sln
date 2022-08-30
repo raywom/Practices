@@ -16,6 +16,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "Revers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleOfTheLinkedList", "MiddleOfTheLinkedList\MiddleOfTheLinkedList.csproj", "{2A9D60B9-B582-4172-8483-9E757D601FB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle2", "LinkedListCycle2\LinkedListCycle2.csproj", "{448D5482-DB34-4F09-A2CA-35141D64FC91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{444A7B0F-F98A-4EDE-B7C4-390E09195B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindrome", "LongestPalindrome\LongestPalindrome.csproj", "{354A03DD-8CAD-4370-90D8-FE9F9657A790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +60,18 @@ Global
 		{2A9D60B9-B582-4172-8483-9E757D601FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A9D60B9-B582-4172-8483-9E757D601FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A9D60B9-B582-4172-8483-9E757D601FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448D5482-DB34-4F09-A2CA-35141D64FC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448D5482-DB34-4F09-A2CA-35141D64FC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448D5482-DB34-4F09-A2CA-35141D64FC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448D5482-DB34-4F09-A2CA-35141D64FC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444A7B0F-F98A-4EDE-B7C4-390E09195B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444A7B0F-F98A-4EDE-B7C4-390E09195B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444A7B0F-F98A-4EDE-B7C4-390E09195B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444A7B0F-F98A-4EDE-B7C4-390E09195B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354A03DD-8CAD-4370-90D8-FE9F9657A790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354A03DD-8CAD-4370-90D8-FE9F9657A790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354A03DD-8CAD-4370-90D8-FE9F9657A790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354A03DD-8CAD-4370-90D8-FE9F9657A790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

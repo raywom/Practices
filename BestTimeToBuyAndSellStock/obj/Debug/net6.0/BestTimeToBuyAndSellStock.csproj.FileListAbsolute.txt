@@ -1,0 +1,15 @@
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\bin\Debug\net6.0\BestTimeToBuyAndSellStock.exe
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\bin\Debug\net6.0\BestTimeToBuyAndSellStock.deps.json
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\bin\Debug\net6.0\BestTimeToBuyAndSellStock.runtimeconfig.json
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\bin\Debug\net6.0\BestTimeToBuyAndSellStock.dll
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\bin\Debug\net6.0\BestTimeToBuyAndSellStock.pdb
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\BestTimeToBuyAndSellStock.csproj.AssemblyReference.cache
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\BestTimeToBuyAndSellStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\BestTimeToBuyAndSellStock.AssemblyInfoInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\BestTimeToBuyAndSellStock.AssemblyInfo.cs
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\BestTimeToBuyAndSellStock.csproj.CoreCompileInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\BestTimeToBuyAndSellStock.dll
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\refint\BestTimeToBuyAndSellStock.dll
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\BestTimeToBuyAndSellStock.pdb
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\BestTimeToBuyAndSellStock.genruntimeconfig.cache
+C:\Users\rkuan\RiderProjects\Practices\BestTimeToBuyAndSellStock\obj\Debug\net6.0\ref\BestTimeToBuyAndSellStock.dll
