@@ -1,0 +1,15 @@
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\bin\Debug\net6.0\ContainsDuplicate.exe
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\bin\Debug\net6.0\ContainsDuplicate.deps.json
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\bin\Debug\net6.0\ContainsDuplicate.runtimeconfig.json
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\bin\Debug\net6.0\ContainsDuplicate.dll
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\bin\Debug\net6.0\ContainsDuplicate.pdb
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\ContainsDuplicate.csproj.AssemblyReference.cache
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\ContainsDuplicate.AssemblyInfoInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\ContainsDuplicate.AssemblyInfo.cs
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\ContainsDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\ContainsDuplicate.dll
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\refint\ContainsDuplicate.dll
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\ContainsDuplicate.pdb
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\ContainsDuplicate.genruntimeconfig.cache
+C:\Users\rkuan\RiderProjects\Practices\ContainsDuplicate\obj\Debug\net6.0\ref\ContainsDuplicate.dll

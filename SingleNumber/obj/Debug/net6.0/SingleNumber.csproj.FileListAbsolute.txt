@@ -1,0 +1,15 @@
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\bin\Debug\net6.0\SingleNumber.exe
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\bin\Debug\net6.0\SingleNumber.deps.json
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\bin\Debug\net6.0\SingleNumber.runtimeconfig.json
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\bin\Debug\net6.0\SingleNumber.dll
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\bin\Debug\net6.0\SingleNumber.pdb
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\SingleNumber.csproj.AssemblyReference.cache
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\SingleNumber.AssemblyInfoInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\SingleNumber.AssemblyInfo.cs
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\SingleNumber.dll
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\refint\SingleNumber.dll
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\SingleNumber.pdb
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\SingleNumber.genruntimeconfig.cache
+C:\Users\rkuan\RiderProjects\Practices\SingleNumber\obj\Debug\net6.0\ref\SingleNumber.dll
