@@ -22,6 +22,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindrome", "LongestPalindrome\LongestPalindrome.csproj", "{354A03DD-8CAD-4370-90D8-FE9F9657A790}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{3A25BA03-B401-4CE1-8587-35C940938BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{4C7FBFC0-ACC8-42F3-91FF-372379A675C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{D4DB2AC5-4159-4222-9FC2-61BF6E81F4B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,6 +78,18 @@ Global
 		{354A03DD-8CAD-4370-90D8-FE9F9657A790}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{354A03DD-8CAD-4370-90D8-FE9F9657A790}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{354A03DD-8CAD-4370-90D8-FE9F9657A790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A25BA03-B401-4CE1-8587-35C940938BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A25BA03-B401-4CE1-8587-35C940938BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A25BA03-B401-4CE1-8587-35C940938BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A25BA03-B401-4CE1-8587-35C940938BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7FBFC0-ACC8-42F3-91FF-372379A675C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7FBFC0-ACC8-42F3-91FF-372379A675C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7FBFC0-ACC8-42F3-91FF-372379A675C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7FBFC0-ACC8-42F3-91FF-372379A675C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DB2AC5-4159-4222-9FC2-61BF6E81F4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DB2AC5-4159-4222-9FC2-61BF6E81F4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DB2AC5-4159-4222-9FC2-61BF6E81F4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DB2AC5-4159-4222-9FC2-61BF6E81F4B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
