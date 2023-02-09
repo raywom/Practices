@@ -8,15 +8,22 @@ public class Solution
 {
     public ListNode MiddleNode(ListNode head)
     {
-        ListNode slow = head;
-        ListNode fast = head;
-        while (fast != null && fast.next != null)
+        ListNode headCopy = head;
+        int count = 0;
+        while (headCopy != null)
         {
-            slow = slow.next;
-            fast = fast.next.next;
+            count++;
+            headCopy = headCopy.next;
         }
 
-        return slow;
+        int middle = count / 2;
+        for (int i = 0; i < middle; i++)
+        {
+            head = head.next;
+        }
+
+
+        return head;
     }
 }
 
